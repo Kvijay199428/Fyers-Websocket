@@ -2,3 +2,4 @@ historicalDataOptions/
 historicalData/
 api/
 
+.env
