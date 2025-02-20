@@ -1,0 +1,7 @@
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net4.8\fyers.csproj.AssemblyReference.cache
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net4.8\fyers.csproj.SuggestedBindingRedirects.cache
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net4.8\fyers.exe.config
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net4.8\fyers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net4.8\fyers.AssemblyInfoInputs.cache
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net4.8\fyers.AssemblyInfo.cs
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net4.8\fyers.csproj.CoreCompileInputs.cache

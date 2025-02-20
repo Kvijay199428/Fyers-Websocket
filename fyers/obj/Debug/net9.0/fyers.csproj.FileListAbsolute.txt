@@ -1,0 +1,5 @@
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net9.0\fyers.csproj.AssemblyReference.cache
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net9.0\fyers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net9.0\fyers.AssemblyInfoInputs.cache
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net9.0\fyers.AssemblyInfo.cs
+C:\Users\vjsin\Desktop\fyers\fyers\obj\Debug\net9.0\fyers.csproj.CoreCompileInputs.cache
