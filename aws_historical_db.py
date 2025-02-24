@@ -42,7 +42,7 @@ class AsyncHistoricalDataFetcher:
     def _load_db_config(self):
         """Load PostgreSQL configuration from ini file"""
         config = configparser.ConfigParser()
-        config.read('api/ini/stock.ini')
+        config.read('api/ini/aws_stocks.ini')
         return {
             'host': config.get('postgresql', 'host'),
             'port': config.getint('postgresql', 'port'),
@@ -330,7 +330,7 @@ class AsyncHistoricalDataFetcher:
         except Exception as e:
             raise Exception(f"Error fetching data chunk: {str(e)}")
 
-    async def process_symbol(self, symbol, years=1):
+    async def process_symbol(self, symbol, years=3):
         """Process a single symbol with async data fetching"""
         print(f"Starting processing for {symbol}")
         temp_dir = Path('temp_extract')
@@ -454,7 +454,7 @@ class AsyncHistoricalDataFetcher:
         
         return symbol
     
-    async def process_all_symbols(self, years=1):
+    async def process_all_symbols(self, years=3):
         """Process all equity symbols with prioritization"""
         try:
             if self.use_database:
